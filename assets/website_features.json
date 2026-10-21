@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Share UPI requests",
+    "description": "Scan a UPI QR and share the payment details with a trusted person through WhatsApp or another app."
+  },
+  {
+    "title": "Keep a local transaction history",
+    "description": "Review requests, repayment notes, optional proof, and contact balances stored on your device."
+  },
+  {
+    "title": "No app account or backend",
+    "description": "Contacts and transaction details stay on your device. Sharing happens only when you choose an external app."
+  },
+  {
+    "title": "Open source",
+    "description": "Review the app source code and report issues on GitHub."
+  }
+]
